@@ -1,0 +1,16 @@
+{
+  "name": "ibook-api",
+  "version": "1.0.0",
+  "description": "Fake api for Ibook Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "Cataline",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
